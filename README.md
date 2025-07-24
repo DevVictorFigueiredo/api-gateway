@@ -50,8 +50,6 @@ Snippet de código
 API_GATEWAY_PORT=3000
 TASK_SERVICE_URL=localhost:50051
 
-Importante: Este arquivo .env já está no .gitignore e NÃO deve ser enviado para o GitHub.
-
 2. Instalação das Dependências
 
 Com o terminal aberto na raiz do diretório api-gateway/, instale as dependências do projeto:
